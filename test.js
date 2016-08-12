@@ -1,4 +1,4 @@
 function test() {
   //this is just a test
-  var foo = 1;
+  var foo = 3;
 }
